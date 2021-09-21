@@ -1,0 +1,15 @@
+{
+  "name": "supedev-razorpayx-nodejsdk",
+  "version": "1.0.0",
+  "description": "Razorpay SDK for supedev",
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
